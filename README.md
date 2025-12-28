@@ -3,7 +3,13 @@
 
 # 🦸 Sistema de Classificação de Heróis
 
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/ac2aedef-b167-4dfa-8656-97ef5420b7fd" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/a2f5996d-5090-49c0-811e-0c6315583f0e" />
+
 Aplicação console desenvolvida em C# para classificar heróis baseado em sua experiência (XP).
+
+# Demonstração
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/06ba117d-d9be-4a59-bff2-6f553317345d" />
 
 ## 📋 Sobre o Projeto
 
